@@ -28,7 +28,7 @@ python general-markov-next-longest.py {GRANULARITY} {N_LOCATION}
 
 
 
-Following is one of the example:
+Following is one of the example (you may not get the same number since we provide only a sampled dataset):
 
 ```
 $ python general-markov-next-important.py 25 5
